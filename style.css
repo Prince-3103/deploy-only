@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    color:chartreuse;
+}
+h3{
+    color: rgb(213, 67, 41);
+}
+p{
+    color: rgb(92, 195, 240);
+    
+}
+.class{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
